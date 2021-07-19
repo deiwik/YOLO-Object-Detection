@@ -1,6 +1,6 @@
 # YOLO-Object-Detection
 
-The algorithm looks at the entire image only once, undergoes recognition, localizayion and finally classification.
+The algorithm looks at the entire image only once, undergoes recognition, localization and finally classification.
 used python and opencv deep neural networks module with the pretrained YOLO model to detect the object.
 
 
